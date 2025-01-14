@@ -1,7 +1,20 @@
-👋 Hey there! I'm Devlin, a 21-year-old coding enthusiast diving into the world of software development at @codam-coding-college (42 Network). 💻
+Hey!
 
-🔍 Currently learning the basics of C, but always up for exploring new languages. 🚀
+I'm Devlin, a software engineering student at [Codam Coding College](https://codam.com/about-codam).
 
-🛠️ I'm all about tinkering with projects and solving puzzles, one line of code at a time. 💡
+At Codam, we follow [42's Core Curriculum](https://42.fr/en/the-program/innovative-learning/), focussed mainly on C and C++,
+but you finish the study with a project that allows you to use languages of your own liking.
 
-💼 Looking to connect with fellow beginners and seasoned pros to learn, grow, and maybe even collaborate on some cool stuff! 
+I am currently employed as a junior, and am getting more familiar with the following languages, tools and frameworks every day:
+
+JavaScript,
+Vue,
+Nuxt,
+Python,
+Django,
+HTML,
+CSS (mostly tailwind),
+Docker.
+
+
+
